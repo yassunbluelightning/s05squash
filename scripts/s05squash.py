@@ -4,7 +4,7 @@ import pjTkInter as tk
 import pjSound as sound
 from logStdErr import logStdErrClass
 lse=logStdErrClass()
-lse.setProjectName("TutorialSeason001")
+lse.setProjectName("s05squash")
 lse.errToFile()
 
 # Squash Game
